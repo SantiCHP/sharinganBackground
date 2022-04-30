@@ -9,7 +9,6 @@ body {
     place-items: center;
 }
 .main_sharingan {
-    position: absolute;
     height: 950px;
     width: 1425px;
     z-index: -10;
